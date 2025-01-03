@@ -1,0 +1,21 @@
+{
+  "name": "coder-dark-theme",
+  "displayName": "coder dark theme",
+  "description": "Elevate your coding experience with the Coder Dark Theme—a modern, sleek, and minimalistic dark theme designed for developers who love to focus. With carefully curated color palettes that balance vibrancy and comfort, this theme enhances readability while reducing eye strain during long coding sessions.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "coder-dark-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/coder-dark-theme-color-theme.json"
+      }
+    ]
+  }
+}
