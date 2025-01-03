@@ -13,7 +13,7 @@ bhupeshb7-coder-dark-theme is a sleek and modern dark theme for Visual Studio Co
 
 Alternatively, you can manually install the theme:
 
-1. Download the latest release of the theme from the [GitHub repository](https://github.com/your-repo).
+1. Download the latest release of the theme from the [GitHub repository](https://github.com/BhupeshB7/vscode-theme).
 2. Unzip the downloaded file and copy the contents to the `.vscode/extensions` directory.
 
 ## Features
@@ -51,11 +51,12 @@ Alternatively, you can manually install the theme:
 Here are some demo images to showcase the theme in action:
 
 ![Editor Screenshot](./editorImg.png)
+<br>
 ![Terminal Screenshot](./terminal.png)
 
 ## Contributing
 
-If you have suggestions for improving the theme, please feel free to submit an issue or a pull request on the [GitHub repository](https://github.com/your-repo).
+If you have suggestions for improving the theme, please feel free to submit an issue or a pull request on the [GitHub repository](https://github.com/BhupeshB7/vscode-theme).
 
 ## License
 
