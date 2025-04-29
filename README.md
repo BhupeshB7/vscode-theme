@@ -121,7 +121,7 @@ For the best experience with this theme, consider these additional settings:
 
 ## Feedback & Contributions
 
-If you have suggestions or find any issues, please submit them through the [GitHub repository](https://github.com/bhupeshb7/coder-dark-theme/issues).
+If you have suggestions or find any issues, please submit them through the [GitHub repository](https://github.com/bhupeshb7/vscode-theme/issues).
 
 Pull requests are welcome! If you'd like to contribute, please feel free to fork the repository and submit a pull request.
 
